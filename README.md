@@ -13,11 +13,7 @@ Excel / CSV / SQL Data Sources
 # 📁 Projects Included
 Sales Dashboard – Track revenue, profit, and regional performance with filters by product and time period.
 
-HR Analytics – Analyze employee demographics, attrition, and hiring trends.
-
-Finance Dashboard – Monitor key financial metrics such as profit margins, expenses, and ROI.
-
-(Add or customize based on your actual projects)
+Blinkit Dashboard - Trach orders, item type, total sales, avg sales rating and other analysis.
 
 # 🎯 Features
 Dynamic dashboards with slicers and filters
